@@ -1,5 +1,10 @@
 #!/bin/bash
 
+OLDPW="yes"
+NEWPW="yess"
+TOKEN="aa98be144c35b914f7350d550e638a29"
+
+
 API="http://localhost:4741"
 URL_PATH="/change-password"
 

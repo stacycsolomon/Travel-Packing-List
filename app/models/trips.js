@@ -1,11 +1,15 @@
 const mongoose = require('mongoose')
 
-const exampleSchema = new mongoose.Schema({
-  title: {
+const tripSchema = new mongoose.Schema({
+  destination: {
     type: String,
     required: true
   },
-  text: {
+  date: {
+    type: String,
+    required: true
+  },
+  length: {
     type: String,
     required: true
   },
@@ -18,4 +22,4 @@ const exampleSchema = new mongoose.Schema({
   timestamps: true
 })
 
-module.exports = mongoose.model('Example', exampleSchema)
+module.exports = mongoose.model('Trip', tripSchema)
