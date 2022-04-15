@@ -1,5 +1,4 @@
 #!/bin/sh
-TOKEN="a84fc7458bc8a322936345383ceee853"
 
 API="http://localhost:4741"
 URL_PATH="/trips"
