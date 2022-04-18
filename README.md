@@ -2,7 +2,7 @@
 
 This application was designed for the frequent flyer, to allow travelers to stay organized for upcoming travel. Users are able to create an account, and have a central location that they can use to keep track of upcoming trips. A user will be able to show all trips, add new trips, update or delete existing trips.
 
-You can find the deployed application here.
+You can find the deployed application [here](https://stacycsolomon.github.io/Travel-Packing-List-Client/)
 
 ### User Stories
 
